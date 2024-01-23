@@ -27,6 +27,7 @@ Traditional attendance tracking methods are prone to various challenges, such as
     
 2. ***Tools***
    - Tableau
+   - MongoDB
 
 3. ***Top Libraries (Find the rest in requirements file)***
    - OpenCV
