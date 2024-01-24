@@ -32,6 +32,7 @@ Traditional attendance tracking methods are prone to various challenges, such as
 3. ***Top Libraries (Find the rest in requirements file)***
    - OpenCV
   
-## How To Run Project On Your Device.
+## How To Run Project On Your Device (Windows x64).
 1. Open your terminal, navigate to desired directory and run *"git clone https://github.com/munas-git/Automated-Attendance-and-Attention-Tracker.git"*
 2. Open the folder/directory in your desired IDE e.g. Visual Studio Code, PyCharm, Etc.
+3. Create your virtual environment .... or run the bash script *"setup.py"*
