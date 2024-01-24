@@ -1,0 +1,8 @@
+click==8.1.7
+colorama==0.4.6
+# Note that dlib library is required as well, however this is handles with assisted setup.
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+numpy==1.26.3
+opencv-python==4.9.0.80
+pillow==10.2.0
