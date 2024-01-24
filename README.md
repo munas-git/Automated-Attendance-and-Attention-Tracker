@@ -22,7 +22,7 @@ Traditional attendance tracking methods are prone to various challenges, such as
 
 **Technologies Used**
 1. ***Programming Languages***
-   - Python
+   - Python (Version: )
    - SQL
     
 2. ***Tools***
@@ -34,5 +34,5 @@ Traditional attendance tracking methods are prone to various challenges, such as
   
 ## How To Run Project On Your Device (Windows x64).
 1. Open your terminal, navigate to desired directory and run *"git clone https://github.com/munas-git/Automated-Attendance-and-Attention-Tracker.git"*
-2. Open the folder/directory in your desired IDE e.g. Visual Studio Code, PyCharm, Etc.
+2. Open the folder/directory in your desired IDE e.g. Visual Studio Code, PyCharm, Etc. and navigate to the folder/directory in terminal as well.
 3. Create your virtual environment .... or run the bash script *"setup.py"*
