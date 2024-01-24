@@ -20,7 +20,7 @@ Traditional attendance tracking methods are prone to various challenges, such as
 5. Analytics of attention rate at differrent rimes during lecture (Highlights peak attention and loss of attention)
 6. Analytics of tiredness levels throughout lectures. (Highlights peak tiredness time)
 
-**Technologies used**
+**Technologies Used**
 1. ***Programming Languages***
    - Python
    - SQL
@@ -31,3 +31,7 @@ Traditional attendance tracking methods are prone to various challenges, such as
 
 3. ***Top Libraries (Find the rest in requirements file)***
    - OpenCV
+  
+## How To Run Project On Your Device.
+1. Open your terminal, navigate to desired directory and run *"git clone https://github.com/munas-git/Automated-Attendance-and-Attention-Tracker.git"*
+2. Open the folder/directory in your desired IDE e.g. Visual Studio Code, PyCharm, Etc.
