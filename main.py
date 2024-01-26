@@ -1,13 +1,12 @@
 # Importing Important Libraies
-import os
 import cv2
 import numpy as np
 import face_recognition
-from datetime import datetime
 
 
 # Capturing video
 live_capture = cv2.VideoCapture(0)
+live_capture.set(cv2.CAP_PROP_FPS, 1080)
 
 # Face encoding
 img = cv2.imread("test-images/Einstein.jpg")
