@@ -35,4 +35,8 @@ Traditional attendance tracking methods are prone to various challenges, such as
 ## How To Run Project On Your Device (Windows x64).
 1. Open your terminal, navigate to desired directory and run *"git clone https://github.com/munas-git/Automated-Attendance-and-Attention-Tracker.git"*
 2. Open the folder/directory in your desired IDE e.g. Visual Studio Code, PyCharm, Etc. and navigate to the folder/directory in terminal as well.
-3. Create your virtual environment .... or run the bash script *"setup.py"*
+3. **Settinhg up project:**
+   - **Alternative 1:** Create your virtual environment and install all dependencies listed in *resuirements.txt*
+   - **Alternative 2:** Run run the bash script ***"setup.sh"*** (creates virtual environment, installs dependencies, activates virtual environment and starts system.)
+   - **Alternative 3:** Run the python script ***"setup.sh"*** (setup.sh python version.)
+4. 
