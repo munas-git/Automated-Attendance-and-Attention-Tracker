@@ -1,4 +1,4 @@
-##### Project Status: Incomplete.
+##### Project Status: Incomplete (Temporarily on Pause Till Further Notice).
 # Project Title: Automated Attendance and Attention Tracker.
 
 ## Project Description.
